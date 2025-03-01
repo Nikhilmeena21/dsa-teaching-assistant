@@ -27,13 +27,13 @@ The DSA Teaching Assistant is an innovative AI-powered learning tool designed to
 - npm
 - Groq API Key
 
-  ## 🖥 User Interface
+## 🖥 User Interface
 
 ### Interface
-![Interface](screenshots/Interface.png)
+![Interface](https://raw.githubusercontent.com/Nikhilmeena21/dsa-teaching-assistant/main/screenshots/Interface.jpg)
 
-### Problem Analysis View
-![Problem Analysis](screenshots/problem-analysis.png)
+### Problem-Analysis
+![problem-analysis](https://raw.githubusercontent.com/Nikhilmeena21/dsa-teaching-assistant/main/screenshots/problem-analysis.jpg)
 
 
 
