@@ -30,10 +30,10 @@ The DSA Teaching Assistant is an innovative AI-powered learning tool designed to
 ## 🖥 User Interface
 
 ### Interface
-![Interface](https://raw.githubusercontent.com/Nikhilmeena21/dsa-teaching-assistant/main/screenshots/Interface.jpg)
+![Interface](https://raw.githubusercontent.com/Nikhilmeena21/dsa-teaching-assistant/main/screenshots/Interface.png)
 
 ### Problem-Analysis
-![problem-analysis](https://raw.githubusercontent.com/Nikhilmeena21/dsa-teaching-assistant/main/screenshots/problem-analysis.jpg)
+![problem-analysis](https://raw.githubusercontent.com/Nikhilmeena21/dsa-teaching-assistant/main/screenshots/problem-analysis.png)
 
 
 
