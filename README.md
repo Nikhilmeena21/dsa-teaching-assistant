@@ -110,7 +110,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 🔗 Repository
 
-[GitHub Repository Link]
+[https://github.com/Nikhilmeena21/dsa-teaching-assistant]
 
 ## 🙏 Acknowledgments
 
