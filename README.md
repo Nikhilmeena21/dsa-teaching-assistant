@@ -97,6 +97,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
  **Submitted to** : Naman Bhalla
  **Purpose** : Software Engineering Intern Assignment
 
+ **Submit by**: Nikhil Meena
+ **Roll Number** : 2K21/CO/305
+ **College**: Delhi Technological University
+
 ### Assignment Requirements
 
 * Create a chat interface for DSA problems
