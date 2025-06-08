@@ -92,22 +92,6 @@ Our AI uses sophisticated prompt engineering to:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 🏆 Assignment Details
-
- **Submitted to** : Naman Bhalla
- **Purpose** : Software Engineering Intern Assignment
-
- **Submit by**: Nikhil Meena
- **Roll Number** : 2K21/CO/305
- **College**: Delhi Technological University
-
-### Assignment Requirements
-
-* Create a chat interface for DSA problems
-* Integrate AI for guided assistance
-* Provide hints without direct solutions
-* Encourage independent learning
-
 ## 🔗 Repository
 
 [https://github.com/Nikhilmeena21/dsa-teaching-assistant]
